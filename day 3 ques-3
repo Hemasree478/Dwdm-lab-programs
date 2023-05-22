@@ -1,0 +1,10 @@
+@relation breakfast
+@attribute bread{yes,no}
+@attribute peanuts{yes,no}
+@attribute milk{yes,no}
+@attribute fruit{yes,no}
+@attribute jam{yes,no}
+@attribute soda{yes,no}
+@attribute chips{yes,no}
+@attribute steak{yes,no}
+@attribute yogurt{yes,no}
